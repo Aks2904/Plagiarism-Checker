@@ -42,7 +42,7 @@ public static final String GOOGLE_SEARCH_URL = "https://www.google.com/search";
         txtcontent.setLineWrap(true);
         txtcontent.setRows(5);
         jScrollPane1.setViewportView(txtcontent);
-
+	 //heres a comment
         btncheck.setBackground(new java.awt.Color(0, 0, 0));
         btncheck.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         btncheck.setForeground(new java.awt.Color(255, 255, 255));
